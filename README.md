@@ -68,7 +68,6 @@ I enjoy building projects, learning new technologies, and solving real-world pro
 
 ---
 
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaileshjangir&show_icons=true&theme=radical)
@@ -86,9 +85,9 @@ I enjoy building projects, learning new technologies, and solving real-world pro
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shaileshjangir)
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=firefox)](https://thinkinventive.com) -->
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:shaileshjangir@gmail.com)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shaileshjangir) 
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=firefox)](https://thinkinventive.com) -->
 ---
 
 ⭐️ From [Shailesh Jangir](https://github.com/shaileshjangir)
