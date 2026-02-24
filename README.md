@@ -1,28 +1,39 @@
-# Hi there 👋, I'm Shailesh Jangir
+<h1 align="center">Hi 👋, I'm Shailesh Jangir</h1>
+<h3 align="center">Tech Lead • Backend Architect • Cloud & Integrations Specialist</h3>
 
-💻 Tech Lead | 🚀 Tech Enthusiast | 🌱 Lifelong Learner  | ☁️ Cloud Enthusiast | ⚡ Backend & Integrations Specialist  
-
-Welcome to my GitHub profile!  
-I enjoy building projects, learning new technologies, and solving real-world problems through code.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Cloud+Architecture+%7C+AWS+%7C+Serverless;Laravel+%7C+Magento2+%7C+API+Integrations;Automation+%7C+Performance+Optimization" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **Backend & Cloud-based applications**
-- 🌱 Exploring **Serverless Architecture & Advanced AWS Services**
-- 👯 Open to collaborate on **Laravel / API / NodeJS / Python / Magento2 Projects**
-- 💬 Ask me about **PHP, Laravel, Magento2, AWS, APIs**
-- 🌱 I’m currently learning **Python FastAPI** and **NestJS**
-- 💬 Ask me about **Web Dev / AI / Backend / etc**
-- 📫 How to reach me: **shaileshjangir@gmail.com**
-- ⚡ Fun fact: *I love optimizing backend performance and automation*
+- 💼 **Tech Lead** focused on scalable backend architecture & cloud solutions  
+- ☁️ Strong experience with **AWS, Serverless & Cloud Infrastructure**
+- 🔗 Specialized in **API integrations & enterprise automation**
+- 🧠 Passionate about **performance optimization & clean architecture**
+- 🌱 Currently learning **Python FastAPI** & **NestJS**
+- 👯 Open to collaborate on **Laravel / Magento2 / Cloud / API projects**
+- 📫 Reach me at: **shaileshjangir@gmail.com**
+
+---
+
+## 🧱 Architecture & Expertise
+
+✔️ Scalable Backend Systems  
+✔️ Microservices & API Design  
+✔️ AWS Cloud Infrastructure (EC2, Lambda, Serverless)  
+✔️ Third-party Integrations (Yext, Webhooks, APIs)  
+✔️ Magento2 Custom Development  
+✔️ Automation & Workflow Optimization  
+✔️ Performance Tuning & System Reliability  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Backend Development
+### 👨‍💻 Backend
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat&logo=laravel)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-black?style=flat&logo=codeigniter)
@@ -30,64 +41,77 @@ I enjoy building projects, learning new technologies, and solving real-world pro
 
 ### ☁️ Cloud & Serverless
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazonaws)
-![EC2](https://img.shields.io/badge/-AWS%20EC2-black?style=flat&logo=amazonaws)
-![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-black?style=flat&logo=awslambda)
+![EC2](https://img.shields.io/badge/-EC2-black?style=flat&logo=amazonaws)
+![AWS Lambda](https://img.shields.io/badge/-Lambda-black?style=flat&logo=awslambda)
 ![Serverless](https://img.shields.io/badge/-Serverless-black?style=flat&logo=serverless)
 
-### 🔗 Integrations & APIs
+### 🔗 APIs & Integrations
 ![REST API](https://img.shields.io/badge/-REST%20API-black?style=flat&logo=fastapi)
-![Yext](https://img.shields.io/badge/-Yext%20Integrations-black?style=flat)
 ![Webhooks](https://img.shields.io/badge/-Webhooks-black?style=flat)
+![Yext](https://img.shields.io/badge/-Yext%20Integrations-black?style=flat)
 ![JSON](https://img.shields.io/badge/-JSON-black?style=flat&logo=json)
 
-### 🧰 Tools & DevOps
+### ⚙️ DevOps & Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat&logo=visual-studio-code)
 
-### Languages
+### 💻 Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express)
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 
-## 🚀 What I Work On
+---
 
-- 🔹 Scalable **PHP backend systems**
-- 🔹 Laravel & CodeIgniter enterprise applications
+## 🚀 What I Build
+
+- 🔹 Enterprise-grade **PHP & Laravel applications**
 - 🔹 Magento2 custom modules & integrations
-- 🔹 AWS infrastructure (EC2, Lambda, Serverless)
-- 🔹 Third-party API & Yext integrations
-- 🔹 Automation & cloud workflows
+- 🔹 Cloud-native backend systems on AWS
+- 🔹 Serverless automation workflows
+- 🔹 API ecosystems & third-party integrations
+- 🔹 High-performance backend architectures
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaileshjangir&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaileshjangir&layout=compact&theme=radical)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=shaileshjangir&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaileshjangir&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaileshjangir&layout=compact&theme=radical" height="170"/>
+</p>
 
 ---
 
-## 🌐 Connect with Me
+## 🔥 Contribution Streak
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shaileshjangir)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:shaileshjangir@gmail.com)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shaileshjangir) 
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=firefox)](https://thinkinventive.com) -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shaileshjangir&theme=radical" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shaileshjangir/shaileshjangir/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/shaileshjangir"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/></a>
+<a href="mailto:shaileshjangir@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail"/></a>
+<a href="https://x.com/shaileshjangir"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"/></a>
+</p>
+
 ---
 
 ⭐️ From [Shailesh Jangir](https://github.com/shaileshjangir)
